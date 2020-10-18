@@ -20,3 +20,20 @@ private约束关键词
 	private String type;	
 	private int ram;
 ```
+构造方法
+```
+	HardDisk(int amount,String brank,int rom){
+		this.amount=amount;
+		this.brank=brank;
+		this.rom=rom;
+		
+	}
+```
+实例化对象
+```
+	PC pc = new PC();
+	pc.setCpu(cpu);
+	pc.setDisk(disk);
+	pc.show();
+```
+##
