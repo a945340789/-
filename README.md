@@ -16,5 +16,5 @@
 ## 核心方法：
 1. (```)private int speed;		
 	private String type;	
-	private int ram;
-(```)
+	private int ram;(```)
+
