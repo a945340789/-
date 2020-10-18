@@ -4,7 +4,7 @@ public class Test {
 	public static void main(String[] args) {
 		CPU cpu = new CPU(2200, "AMD", 32);
 		
-		HardDisk disk = new HardDisk(459, "Î÷²¿Êý¾Ý", 500);
+		HardDisk disk = new HardDisk(459, "å› ç‰¹å°”", 500);
 		
 		PC pc = new PC();
 		pc.setCpu(cpu);
