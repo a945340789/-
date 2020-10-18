@@ -14,7 +14,9 @@
 5. 根据课堂中关于访问权限的内容，尝试定义属性的修饰多样化，类中定义方法操作属性，避免直接通过“类对象属性的形式访问属性值;且定义的方法内应该又符合常理的逻辑判断；
 6. 尝试把本次实验的多个类放置在不同的包中。
 ## 核心方法：
-```private int speed;		
+private约束关键词
+```
+	private int speed;		
 	private String type;	
 	private int ram;
 ```
