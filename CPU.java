@@ -1,9 +1,9 @@
 package com;
 
 public class CPU {
-	private int speed;		//cpu速度
-	private String type;	//cpu类型
-	private int ram;		//cpu内存
+	private int speed;		
+	private String type;	
+	private int ram;		
 	
 	CPU(int speed,String type,int ram){
 		this.speed=speed;
